@@ -1,2 +1,7 @@
 /x64/
-.vs/
+/.vs/
+
+/gridsystem/x64/
+/gridsystem/.vs/
+
+*sln

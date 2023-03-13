@@ -1,0 +1,10 @@
+^E:\GAMEDEVELOPMENT\SDL_2023\INTERACTABLEGRID\GRIDSYSTEM_DEMO\BUILD\CMAKEFILES\AF65D47499887D8696F1BA4AC1DC328B\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SE:/GameDevelopment/SDL_2023/interactableGrid/gridsystem_demo -BE:/GameDevelopment/SDL_2023/interactableGrid/gridsystem_demo/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file E:/GameDevelopment/SDL_2023/interactableGrid/gridsystem_demo/build/Grid.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

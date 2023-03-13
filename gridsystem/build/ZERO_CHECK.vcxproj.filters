@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\GameDevelopment\SDL_2023\interactableGrid\gridsystem\build\CMakeFiles\83eeb95f29c27c7a5a1df1c5ba65c544\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{95F1EE98-5775-39D2-B61B-59866A8ADD45}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

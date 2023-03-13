@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\GameDevelopment\SDL_2023\interactableGrid\gridsystem\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\GameDevelopment\SDL_2023\interactableGrid\gridsystem\grid.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\GameDevelopment\SDL_2023\interactableGrid\gridsystem\grid.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\GameDevelopment\SDL_2023\interactableGrid\gridsystem\struct.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\GameDevelopment\SDL_2023\interactableGrid\gridsystem\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{3A8E59E7-32DF-3BBA-A46A-997F341C7E83}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{89158E12-7647-3CD5-8CD2-FFE6B6B66AEE}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
