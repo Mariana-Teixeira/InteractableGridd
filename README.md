@@ -1,4 +1,3 @@
 # InteractableGrid
 
-This SDL2 Project is a grid system that allows for simple player interaction.
-Press a cell inside of the grid boundaries to highlight it.
+This SDL2-2.24.1 project, and built with CMake 3.25.1, demonstrates a primitive understanding of SDL2 and CMake. Cells on the grid are highlighted when pressed.
